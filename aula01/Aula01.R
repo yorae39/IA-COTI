@@ -62,7 +62,7 @@ paste(n, 1:3)
 paste("Maria", 2)
 
 
-rep(paste("T", 1:3, seq=""), c(4,4,3))
+rep(paste("T", 1:3, sep=""), c(4,4,3))
 
 
 
