@@ -39,3 +39,13 @@ modelo$coefficients[1] + modelo$coefficients[2] * 22
 predict(modelo, data.frame(dist = 22))
 
 
+
+
+
+
+
+
+
+
+
+
