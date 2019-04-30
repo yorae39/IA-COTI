@@ -56,6 +56,10 @@ previsao
 plot(previsao)
 
 
+ 
+
+
+
 
 
 
